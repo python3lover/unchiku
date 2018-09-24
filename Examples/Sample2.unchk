@@ -1,0 +1,16 @@
+# /Examples/Sample2.unchk
+# Sample 2
+# うんちく 0.3.0 Stable Build 17
+# By Ken Shibata
+# Last Edited Sep 24, 2018
+# This software is licensed under the GNU GPL 3, the GNU LGPL 3, the CC BY 4.0, or the CC BY-SA 4.0. You should have received a copy of the GNU GPL 3 in Licenses/GNU/GPL/3, the GNU LGPL 3  in Licenses/GNU/LGPL/3, the CC BY 4.0 in Licenses/CC/BY/4, the CC BY-SA 4.0 in Licenses/CC/BY-SA/4. If not visit <gnu.org> or <creativecommons.org>.
+
+
+__author__ = 'Ken Shibata'
+__version__ = '0.3.0-stable'
+__build__ = 17
+__doc__ = 'うんちく {version} (Build {build})'.format(version=__version__, build=__build__)
+__license__ = ['GNU GPL 3', 'GNU LGPL 3', 'CC BY 4.0', 'CC BY-SA 4.0']
+
+　　xxは乱数にする。xyは乱数にする。yyは乱数にする。yxは乱数にする。xはxx*xy。yはyy*yx。xって書く。「かける」って書く。yって書く。「はなんだろう？」って書く。zは数入力にする。もしz=(x*y)。「正解😃」って書く。
+　　もしz!=(x*y)。「残念😔　正解は：」って書く。x*yって書く。
