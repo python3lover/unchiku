@@ -2,6 +2,8 @@ body {
   color: #2c2f33;
   background-color: #eaeaea;
   font-family: "Roboto";
+  margin: 0px;
+  padding: auto;
 }
 
 span {
@@ -24,4 +26,9 @@ footer a {
 
 .logo {
   font-size: 30px;
+}
+
+.isolated-box {
+  background-color: #eaeaea;
+  padding: 5px;
 }
