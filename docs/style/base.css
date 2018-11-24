@@ -1,0 +1,18 @@
+body {
+  color: #2c2f33;
+  background-color: #eaeaea;
+}
+
+span {
+  color: #0088dd;
+}
+
+header {
+  color: #0088dd;
+  background-color: #eaeaea;
+}
+
+footer {
+  color: #0088dd;
+  background-color: #2c2f33;
+}
