@@ -3,7 +3,8 @@ body {
   background-color: #eaeaea;
   font-family: "Roboto";
   margin: 0px;
-  padding: 15px;;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 span {
@@ -13,14 +14,20 @@ span {
 header {
   color: #0088dd;
   background-color: #eaeaea;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 footer {
   color: #eaeaea;
   background-color: #2c2f33;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 
-footer a {
+a {
   color: #0088dd;
 }
 
@@ -31,5 +38,6 @@ footer a {
 .isolated-box {
   background-color: #8c8c8c;
   color: #eaeaea;
-  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
