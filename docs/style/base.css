@@ -5,6 +5,7 @@ body {
   margin: 0px;
   padding-left: 15px;
   padding-right: 15px;
+  display: inline-block;
 }
 
 span {
