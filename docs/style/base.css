@@ -3,6 +3,8 @@ body {
   background-color: #eaeaea;
   font-family: "Roboto";
   margin: 0px;
+  padding-top: 0px;
+  padding-bottom:0px;
   padding-left: 15px;
   padding-right: 15px;
   display: inline-block;
