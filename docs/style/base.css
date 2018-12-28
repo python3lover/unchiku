@@ -44,3 +44,11 @@ a {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+.button {
+  background-color: #00aaff;
+  color: #eaeaea;
+  padding: 5px;
+  border-radius: 5px;
+  
+}
