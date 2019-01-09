@@ -1,6 +1,6 @@
 body {
   color: #2c2f33;
-  background-color: #eaeaea;
+  background-color: #ffffff;
   font-family: "Roboto" sans-serif monospace;
   margin: 0px;
   padding: 0px;
@@ -40,8 +40,8 @@ a {
 }
 
 .isolated-box {
-  background-color: #8c8c8c;
-  color: #eaeaea;
+  background-color: #eaeaea;
+  color: #00aaff;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 5px;
